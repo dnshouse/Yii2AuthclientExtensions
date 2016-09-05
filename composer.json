@@ -1,0 +1,22 @@
+{
+  "name": "dnshouse/yii2-authclient-extended",
+  "description": "Yahoo extenion for yii2-authclient",
+  "keywords": ["yii2", "authclient", "oauth", "yahoo"],
+  "homepage": "https://github.com/dnshouse/yii2-authclient-extended",
+  "require": {
+    "yiisoft/yii2-authclient": "*"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Deyan Sarahoshev",
+      "email": "dns@dasolutions.org"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "dnshouse\\Yii2AuthclientExtensions\\": ""
+    }
+  },
+  "minimum-stability": "dev"
+}
